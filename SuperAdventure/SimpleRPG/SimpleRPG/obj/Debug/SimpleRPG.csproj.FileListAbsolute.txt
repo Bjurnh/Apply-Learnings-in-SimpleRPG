@@ -1,0 +1,13 @@
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.exe.config
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.exe
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.pdb
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\bin\Debug\Core.dll
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\bin\Debug\Core.pdb
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.AssemblyReference.cache
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.Properties.Resources.resources
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.GenerateResource.cache
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.CoreCompileInputs.cache
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.CopyComplete
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.exe
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.pdb
+D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.SimpleRPG.resources

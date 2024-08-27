@@ -1,0 +1,6 @@
+D:\Aidrian Projects\SuperAdventure\Core\bin\Debug\Core.dll
+D:\Aidrian Projects\SuperAdventure\Core\bin\Debug\Core.pdb
+D:\Aidrian Projects\SuperAdventure\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\Aidrian Projects\SuperAdventure\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Aidrian Projects\SuperAdventure\Core\obj\Debug\Core.dll
+D:\Aidrian Projects\SuperAdventure\Core\obj\Debug\Core.pdb
