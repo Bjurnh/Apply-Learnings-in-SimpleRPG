@@ -1,0 +1,13 @@
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\bin\Release\SimpleRPG.exe.config
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\bin\Release\SimpleRPG.exe
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\bin\Release\SimpleRPG.pdb
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\bin\Release\Core.dll
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\bin\Release\Core.pdb
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Release\SimpleRPG.csproj.AssemblyReference.cache
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Release\SimpleRPG.Properties.Resources.resources
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Release\SimpleRPG.SimpleRPG.resources
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Release\SimpleRPG.csproj.GenerateResource.cache
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Release\SimpleRPG.csproj.CoreCompileInputs.cache
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Release\SimpleRPG.csproj.CopyComplete
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Release\SimpleRPG.exe
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Release\SimpleRPG.pdb

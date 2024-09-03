@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SuperAdventure",
+    "\\SuperAdventure\\Core\\bin",
+    "\\SuperAdventure\\SimpleRPG",
+    "\\SuperAdventure\\SimpleRPG\\bin",
+    "\\SuperAdventure\\SimpleRPG\\obj",
+    "\\SuperAdventure\\SimpleRPG\\SimpleRPG"
   ],
-  "SelectedNode": "\\SuperAdventure.sln",
+  "SelectedNode": "\\SuperAdventure\\SuperAdventure.sln",
   "PreviewInSolutionExplorer": false
 }

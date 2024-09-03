@@ -1,0 +1,6 @@
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\Core\bin\Release\Core.dll
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\Core\bin\Release\Core.pdb
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\Core\obj\Release\Core.csproj.AssemblyReference.cache
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\Core\obj\Release\Core.dll
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\Core\obj\Release\Core.pdb

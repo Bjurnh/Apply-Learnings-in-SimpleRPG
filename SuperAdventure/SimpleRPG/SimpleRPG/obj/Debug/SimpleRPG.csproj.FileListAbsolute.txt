@@ -11,3 +11,16 @@ D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.cspro
 D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.exe
 D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.pdb
 D:\Aidrian Projects\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.SimpleRPG.resources
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.exe.config
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.exe
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\bin\Debug\SimpleRPG.pdb
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\bin\Debug\Core.dll
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\bin\Debug\Core.pdb
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.AssemblyReference.cache
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.Properties.Resources.resources
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.SimpleRPG.resources
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.GenerateResource.cache
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.CoreCompileInputs.cache
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.csproj.CopyComplete
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.exe
+C:\Users\Nel2x\Source\Repos\Bjurnh\Apply-Learnings-in-SimpleRPG\SuperAdventure\SimpleRPG\SimpleRPG\obj\Debug\SimpleRPG.pdb
