@@ -240,7 +240,7 @@
             this.dgvInventory.Size = new System.Drawing.Size(312, 280);
             this.dgvInventory.TabIndex = 19;
             // 
-            // dgvQuest
+            // dgvQuests
             // 
             this.dgvQuests.AllowUserToAddRows = false;
             this.dgvQuests.AllowUserToDeleteRows = false;
@@ -250,7 +250,7 @@
             this.dgvQuests.Enabled = false;
             this.dgvQuests.Location = new System.Drawing.Point(16, 446);
             this.dgvQuests.MultiSelect = false;
-            this.dgvQuests.Name = "dgvQuest";
+            this.dgvQuests.Name = "dgvQuests";
             this.dgvQuests.ReadOnly = true;
             this.dgvQuests.RowHeadersVisible = false;
             this.dgvQuests.Size = new System.Drawing.Size(312, 189);
@@ -285,7 +285,7 @@
             this.Name = "SimpleRPG";
             this.Text = "My Game";
             ((System.ComponentModel.ISupportInitialize)(this.dgvInventory)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvQuests  )).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvQuests)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
